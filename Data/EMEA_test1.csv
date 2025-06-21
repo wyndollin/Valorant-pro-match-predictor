@@ -1,0 +1,105 @@
+map,t1_team_name,t2_team_name,Won
+Split,FNATIC,Team Heretics,1
+Icebox,Team Heretics,Team Liquid,1
+Ascent,Team Liquid,Team Heretics,0
+Haven,Team Heretics,Team Liquid,1
+Fracture,Team Liquid,BBL Esports,1
+Split,Team Liquid,BBL Esports,0
+Haven,BBL Esports,Team Liquid,0
+Icebox,Team Heretics,FNATIC,0
+Fracture,Team Heretics,FNATIC,0
+Ascent,Team Liquid,Natus Vincere,1
+Split,Team Liquid,Natus Vincere,1
+Icebox,Natus Vincere,Team Liquid,1
+Ascent,FUT Esports,BBL Esports,0
+Split,FUT Esports,BBL Esports,0
+Haven,FUT Esports,BBL Esports,1
+Haven,FUT Esports,BBL Esports,1
+Fracture,Team Liquid,FNATIC,0
+Icebox,FNATIC,Team Liquid,0
+Split,FNATIC,Team Liquid,1
+Icebox,Team Heretics,BBL Esports,1
+Ascent,BBL Esports,Team Heretics,0
+Split,Team Vitality,FUT Esports,0
+Fracture,Team Vitality,FUT Esports,0
+Ascent,Natus Vincere,Karmine Corp,1
+Split,Natus Vincere,Karmine Corp,1
+Icebox,Karmine Corp,Natus Vincere,1
+Split,FUT Esports,FNATIC,0
+Lotus,FNATIC,FUT Esports,1
+Fracture,Natus Vincere,BBL Esports,0
+Lotus,BBL Esports,Natus Vincere,1
+Haven,Team Heretics,FNATIC,1
+Fracture,Team Heretics,FNATIC,0
+Icebox,Team Heretics,FNATIC,0
+Lotus,Team Heretics,FNATIC,1
+Lotus,Team Liquid,Karmine Corp,1
+Icebox,Team Liquid,Karmine Corp,0
+Icebox,Team Vitality,Natus Vincere,0
+Haven,Team Vitality,Natus Vincere,0
+Fracture,KOI,Gentle Mates,1
+Icebox,Gentle Mates,KOI,0
+Split,Gentle Mates,KOI,1
+Ascent,GIANTX,Apeks,1
+Lotus,Apeks,GIANTX,0
+Icebox,FUT Esports,BBL Esports,0
+Ascent,BBL Esports,FUT Esports,1
+Pearl,Team Heretics,Natus Vincere,1
+Haven,Natus Vincere,Team Heretics,0
+Ascent,Karmine Corp,FUT Esports,0
+Lotus,Karmine Corp,FUT Esports,0
+Pearl,FUT Esports,Karmine Corp,0
+Haven,GIANTX,FNATIC,0
+Lotus,GIANTX,FNATIC,0
+Ascent,GIANTX,FNATIC,1
+Haven,Gentle Mates,BBL Esports,0
+Lotus,BBL Esports,Gentle Mates,1
+Split,Team Liquid,KOI,1
+Lotus,KOI,Team Liquid,0
+Lotus,Apeks,Team Vitality,0
+Ascent,Apeks,Team Vitality,0
+Pearl,Gentle Mates,Karmine Corp,0
+Haven,Karmine Corp,Gentle Mates,1
+Split,FNATIC,Apeks,1
+Lotus,FNATIC,Apeks,1
+Icebox,Team Heretics,Team Vitality,1
+Haven,Team Vitality,Team Heretics,0
+Split,Team Liquid,FUT Esports,1
+Lotus,FUT Esports,Team Liquid,0
+Split,GIANTX,Natus Vincere,0
+Pearl,Natus Vincere,GIANTX,1
+Fracture,GIANTX,Natus Vincere,1
+Icebox,KOI,BBL Esports,0
+Pearl,BBL Esports,KOI,1
+Icebox,Karmine Corp,KOI,1
+Lotus,Karmine Corp,KOI,1
+Haven,Team Vitality,FNATIC,0
+Lotus,FNATIC,Team Vitality,1
+Split,Team Vitality,FNATIC,1
+Lotus,GIANTX,Team Heretics,0
+Split,GIANTX,Team Heretics,1
+Haven,Team Heretics,GIANTX,1
+Lotus,Gentle Mates,FUT Esports,0
+Fracture,Gentle Mates,FUT Esports,0
+Icebox,FUT Esports,Gentle Mates,0
+Split,Natus Vincere,Apeks,1
+Haven,Natus Vincere,Apeks,1
+Lotus,Apeks,Natus Vincere,1
+Ascent,BBL Esports,Team Liquid,0
+Haven,Team Liquid,BBL Esports,0
+Fracture,BBL Esports,Team Liquid,0
+Icebox,Gentle Mates,Team Liquid,1
+Haven,Gentle Mates,Team Liquid,1
+Split,Gentle Mates,Team Liquid,0
+Fracture,FNATIC,Natus Vincere,1
+Split,FNATIC,Natus Vincere,1
+Lotus,FUT Esports,KOI,1
+Pearl,FUT Esports,KOI,1
+Icebox,Team Heretics,Apeks,1
+Split,Apeks,Team Heretics,0
+Ascent,Team Heretics,Apeks,0
+Fracture,Karmine Corp,BBL Esports,0
+Pearl,Karmine Corp,BBL Esports,0
+Icebox,BBL Esports,Karmine Corp,0
+Lotus,Team Vitality,GIANTX,1
+Split,Team Vitality,GIANTX,1
